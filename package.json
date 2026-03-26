@@ -1,0 +1,16 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "### Projeto implementado do zero ao deploy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.5.14",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
